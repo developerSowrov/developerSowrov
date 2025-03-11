@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="center">Coding Tech</h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
