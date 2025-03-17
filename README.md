@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/yn8Xfz0K/linkdin-banner.png"  />
+  <img height="200" src="https://i.ibb.co.com/spyRJL7P/linkdin-banner.png"  />
 </div>
 
 ###
